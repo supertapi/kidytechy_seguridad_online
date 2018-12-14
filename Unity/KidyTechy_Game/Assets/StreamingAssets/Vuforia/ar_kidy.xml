@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Island_card_kubik" size="30.000000 44.733334" />
+    <ImageTarget name="card_cube_large" size="30.000000 44.831459" />
+    <ImageTarget name="card_cube_medium" size="30.000000 44.730942" />
+    <ImageTarget name="card_cube_small" size="30.000000 44.397320" />
+    <ImageTarget name="card_ship" size="30.000000 44.898418" />
+    <ImageTarget name="card_U" size="30.000000 44.898418" />
+    <ImageTarget name="card_island_saturated" size="30.000000 45.101582" />
+    <ImageTarget name="6_card_2" size="30.000000 44.932735" />
+  </Tracking>
+</QCARConfig>
